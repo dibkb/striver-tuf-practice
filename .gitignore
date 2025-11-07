@@ -1,1 +1,33 @@
 patterns/exe
+
+# C++ executables
+*.exe
+*.out
+a.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Common C++ executable names (without extensions)
+main
+test
+solution
+program
+app
